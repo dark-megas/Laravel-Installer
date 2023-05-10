@@ -30,14 +30,14 @@ The current features are :
 
 ## Requirements
 
-* [Laravel 9+](https://laravel.com/docs/installation)
+* [Laravel 8+](https://laravel.com/docs/installation)
 
 ## Installation
 
 1. From your projects root folder in terminal run:
 2. 
 ```bash
-    composer require HaoZi-Team/Laravel-Installer
+    composer require dark-megas/Laravel-Installer
 ```
 
 2. Publish the packages views, config file, assets, and language files by running the following from your projects root folder:
@@ -72,8 +72,8 @@ The current features are :
 
 ## Contributing
 
-* If you have any suggestions please let me know : https://github.com/HaoZi-Team/Laravel-Installer/pulls.
-* Please help us provide more languages for this awesome package please send a pull request https://github.com/HaoZi-Team/Laravel-Installer/pulls.
+* If you have any suggestions please let me know : https://github.com/dark-megas/Laravel-Installer/pulls.
+* Please help us provide more languages for this awesome package please send a pull request https://github.com/dark-megas/Laravel-Installer/pulls.
 
 ## Help
 
