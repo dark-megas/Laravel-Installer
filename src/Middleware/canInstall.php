@@ -1,6 +1,6 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Middleware;
+namespace DarkMegas\LaravelInstaller\Middleware;
 
 use Closure;
 use Redirect;

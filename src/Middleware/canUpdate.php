@@ -1,12 +1,12 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Middleware;
+namespace DarkMegas\LaravelInstaller\Middleware;
 
 use Closure;
 
 class canUpdate
 {
-    use \HaoZiTeam\LaravelInstaller\Helpers\MigrationsHelper;
+    use \DarkMegas\LaravelInstaller\Helpers\MigrationsHelper;
 
     /**
      * Handle an incoming request.

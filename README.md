@@ -37,7 +37,7 @@ The current features are :
 1. From your projects root folder in terminal run:
 2. 
 ```bash
-    composer require dark-megas/Laravel-Installer
+    composer require dark-megas/Laravel-Installer --dev
 ```
 
 2. Publish the packages views, config file, assets, and language files by running the following from your projects root folder:
