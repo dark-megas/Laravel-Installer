@@ -1,14 +1,14 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Controllers;
+namespace DarkMegas\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use HaoZiTeam\LaravelInstaller\Helpers\DatabaseManager;
-use HaoZiTeam\LaravelInstaller\Helpers\InstalledFileManager;
+use DarkMegas\LaravelInstaller\Helpers\DatabaseManager;
+use DarkMegas\LaravelInstaller\Helpers\InstalledFileManager;
 
 class UpdateController extends Controller
 {
-    use \HaoZiTeam\LaravelInstaller\Helpers\MigrationsHelper;
+    use \DarkMegas\LaravelInstaller\Helpers\MigrationsHelper;
 
     /**
      * Display the updater welcome page.

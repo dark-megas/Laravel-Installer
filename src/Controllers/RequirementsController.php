@@ -1,9 +1,9 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Controllers;
+namespace DarkMegas\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use HaoZiTeam\LaravelInstaller\Helpers\RequirementsChecker;
+use DarkMegas\LaravelInstaller\Helpers\RequirementsChecker;
 
 class RequirementsController extends Controller
 {

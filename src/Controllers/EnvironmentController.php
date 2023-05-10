@@ -1,14 +1,14 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Controllers;
+namespace DarkMegas\LaravelInstaller\Controllers;
 
 use Exception;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Routing\Redirector;
 use Illuminate\Support\Facades\DB;
-use HaoZiTeam\LaravelInstaller\Events\EnvironmentSaved;
-use HaoZiTeam\LaravelInstaller\Helpers\EnvironmentManager;
+use DarkMegas\LaravelInstaller\Events\EnvironmentSaved;
+use DarkMegas\LaravelInstaller\Helpers\EnvironmentManager;
 use Validator;
 
 class EnvironmentController extends Controller

@@ -1,21 +1,21 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Controllers;
+namespace DarkMegas\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use HaoZiTeam\LaravelInstaller\Events\LaravelInstallerFinished;
-use HaoZiTeam\LaravelInstaller\Helpers\EnvironmentManager;
-use HaoZiTeam\LaravelInstaller\Helpers\FinalInstallManager;
-use HaoZiTeam\LaravelInstaller\Helpers\InstalledFileManager;
+use DarkMegas\LaravelInstaller\Events\LaravelInstallerFinished;
+use DarkMegas\LaravelInstaller\Helpers\EnvironmentManager;
+use DarkMegas\LaravelInstaller\Helpers\FinalInstallManager;
+use DarkMegas\LaravelInstaller\Helpers\InstalledFileManager;
 
 class FinalController extends Controller
 {
     /**
      * Update installed file and display finished view.
      *
-     * @param \HaoZiTeam\LaravelInstaller\Helpers\InstalledFileManager $fileManager
-     * @param \HaoZiTeam\LaravelInstaller\Helpers\FinalInstallManager $finalInstall
-     * @param \HaoZiTeam\LaravelInstaller\Helpers\EnvironmentManager $environment
+     * @param \DarkMegas\LaravelInstaller\Helpers\InstalledFileManager $fileManager
+     * @param \DarkMegas\LaravelInstaller\Helpers\FinalInstallManager $finalInstall
+     * @param \DarkMegas\LaravelInstaller\Helpers\EnvironmentManager $environment
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
      */
     public function finish(InstalledFileManager $fileManager, FinalInstallManager $finalInstall, EnvironmentManager $environment)

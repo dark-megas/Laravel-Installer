@@ -1,6 +1,6 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Helpers;
+namespace DarkMegas\LaravelInstaller\Helpers;
 
 class RequirementsChecker
 {

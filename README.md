@@ -1,8 +1,8 @@
-# Laravel Web Installer | A Web Installer [Package](https://packagist.org/packages/haozi-team/laravel-installer)
+# Laravel Web Installer | A Web Installer [Package](https://packagist.org/packages/dark-megas/laravel-installer)
 
-[![Total Downloads](https://poser.pugx.org/HaoZi-Team/Laravel-Installer/d/total.svg)](https://packagist.org/packages/haozi-team/laravel-installer)
-[![Latest Stable Version](https://poser.pugx.org/HaoZi-Team/Laravel-Installer/v/stable.svg)](https://packagist.org/packages/haozi-team/laravel-installer)
-[![License](https://poser.pugx.org/HaoZi-Team/Laravel-Installer/license.svg)](https://packagist.org/packages/haozi-team/laravel-installer)
+[![Total Downloads](https://poser.pugx.org/dark-megas/Laravel-Installer/d/total.svg)](https://packagist.org/packages/dark-megas/laravel-installer)
+[![Latest Stable Version](https://poser.pugx.org/dark-megas/Laravel-Installer/v/stable.svg)](https://packagist.org/packages/dark-megas/laravel-installer)
+[![License](https://poser.pugx.org/dark-megas/Laravel-Installer/license.svg)](https://packagist.org/packages/dark-megas/laravel-installer)
 
 - [About](#about)
 - [Requirements](#requirements)

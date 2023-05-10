@@ -1,6 +1,6 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Events;
+namespace DarkMegas\LaravelInstaller\Events;
 
 use Illuminate\Broadcasting\InteractsWithSockets;
 use Illuminate\Foundation\Events\Dispatchable;

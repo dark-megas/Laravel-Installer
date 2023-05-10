@@ -1,11 +1,11 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Providers;
+namespace DarkMegas\LaravelInstaller\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
-use HaoZiTeam\LaravelInstaller\Middleware\canInstall;
-use HaoZiTeam\LaravelInstaller\Middleware\canUpdate;
+use DarkMegas\LaravelInstaller\Middleware\canInstall;
+use DarkMegas\LaravelInstaller\Middleware\canUpdate;
 
 class LaravelInstallerServiceProvider extends ServiceProvider
 {

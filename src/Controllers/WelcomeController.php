@@ -1,6 +1,6 @@
 <?php
 
-namespace HaoZiTeam\LaravelInstaller\Controllers;
+namespace DarkMegas\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
 
